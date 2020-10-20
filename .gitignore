@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore extensionless files
+*
+!*/
+!*.*
+
+# Ignore files in C/
+C/.DS_Store
+C/.out
