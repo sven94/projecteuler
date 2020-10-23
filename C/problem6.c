@@ -2,6 +2,8 @@
 #include <math.h> 
 
 // Problem 6
+// CUDA potential
+
 int main() {
     int n = 100;
     int squareOfSums = 0;

@@ -4,6 +4,7 @@
 #include <time.h>
 
 // Problem 1
+// CUDA potential
 
 /**
  * Dynamically add elements to array. When the size of the array exceeds the capacity of the allocated memory, 
